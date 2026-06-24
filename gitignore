@@ -1,0 +1,36 @@
+# ============================================================
+# .gitignore — SQL / Database Project
+# ============================================================
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor / IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# MySQL data and config dumps (never commit real credentials!)
+*.cnf
+my.ini
+*.env
+.env
+*.key
+*.pem
+
+# Dump files
+*.dump
+*.bak
+*.log
+
+# Compiled / temp files
+*.pyc
+__pycache__/
+node_modules/
+
+# MySQL workbench temp
+*.mwb.bak
