@@ -1,6 +1,6 @@
 -- ============================================================
 -- Project  : SQL UNION Queries - Employee Data Analysis
--- Author   : [Your Name]
+-- Author   : Shree
 -- Date     : 2026-06-24
 -- Database : MySQL / MariaDB
 -- Description: Demonstrates the use of UNION DISTINCT and
